@@ -2,6 +2,7 @@
   "name": "service-section",
   "version": "1.0.0",
   "description": "React Service Section using map",
+  "homepage": "https://coder-harsh.github.io/react-service-sec",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url /react-service-sec",
@@ -23,7 +24,6 @@
   "bugs": {
     "url": "https://github.com/coder-harsh/react-service-sec/issues"
   },
-  "homepage": "https://coder-harsh.github.io/react-service-sec",
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "parcel": "^2.12.0",
