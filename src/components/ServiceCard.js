@@ -1,5 +1,4 @@
 import React from "react";
-import { CgWebsite } from "react-icons/cg";
 import "../style/serviceCard.css";
 
 export default ServiceCard = (props) => {
