@@ -1,7 +1,7 @@
 import React from "react";
 import "../style/serviceCard.css";
 
-export default ServiceCard = (props) => {
+const ServiceCard = (props) => {
     const { serList } = props;
     const { service, description, icon } = serList;
     return (
@@ -12,3 +12,4 @@ export default ServiceCard = (props) => {
         </div>
     )
 }
+export default ServiceCard;
